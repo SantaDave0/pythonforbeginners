@@ -21,6 +21,6 @@ print(x + y+ z)
 
 
 
-
+print("slut")
 print(f"my name is{name} im {color} in complextion and i am{tall} tall")
 
