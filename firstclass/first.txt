@@ -1,0 +1,32 @@
+programming languages?
+
+programming lang talk to the computer
+
+java
+python
+
+similarities
+prog lang
+
+syntax and semantics
+how you structure your code
+syntax: program structure
+java:
+    public void main(){
+        return a + b
+    }
+
+python:
+    def add:
+        return a + b
+semantics:
+print to console
+
+java: 
+    system.out.print("hello")
+
+python:
+    print("hello")
+
+programming principles and techniques
+ppt.
