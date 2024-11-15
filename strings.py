@@ -20,7 +20,5 @@ print(x + y+ z)
 #f function
 
 
-
-print("slut")
 print(f"my name is{name} im {color} in complextion and i am{tall} tall")
 
