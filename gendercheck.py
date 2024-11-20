@@ -1,11 +1,11 @@
 #make a program that checks whether a user is male or female
 
-#gender
-
+#gender, male, female and transgender
+#create a variable called gender
 gender = input("enter your gender: ")
 if(gender == "male"):
-    print("it is a man")
-elif(gender == "female"):
-    print("it is a woman")
+    print("user is a man")
+elif(gender == "transgender"):
+    print("user is transgender")
 else:
-    print("your gender is not here")
+    print("the user is a woman")
